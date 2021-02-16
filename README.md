@@ -10,7 +10,7 @@ I'm a fast learner:runner: and an autodidact, and I’ve already worked on real,
 # My websites:
 :cloud::cloud::cloud:  [My Weather App](https://tamar-weather-app.herokuapp.com/)
 
-:moneybag::moneybag::moneybag:  [My expenses accounting](https://tamar-weather-app.herokuapp.com/)
+:moneybag::moneybag::moneybag:  [My expenses accounting](https://tamar-expensify.herokuapp.com/)
 
 :speaking_head::speaking_head::speaking_head:  [My Chat App](https://tamars-chat-app.herokuapp.com/)
 
