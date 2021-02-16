@@ -2,9 +2,26 @@
 
 My name is Tamar and I’m a junior full-stack developer.
 In the past I’ve held several managerial positions in the education field, but I went on a career shift after teaching myself how to code. 
+
 I'm a fast learner:runner: and an autodidact, and I’ve already worked on real, customer-facing projects.
 
 ### Right now looking for a junior job in the relvant topics or new topics:star:
+
+# My websites:
+:cloud::cloud::cloud:  [My Weather App](https://tamar-weather-app.herokuapp.com/)
+
+:moneybag::moneybag::moneybag:  [My expenses accounting](https://tamar-weather-app.herokuapp.com/)
+
+:speaking_head::speaking_head::speaking_head:  [My Chat App](https://tamars-chat-app.herokuapp.com/)
+
+:smirk::smirk::smirk:  [My WHAT-TO-DO indecision App](https://tamar-what-to-do.herokuapp.com/)
+
+# Programming Languages and Tools:
+
+![python](https://github.com/tamarmoshe14/image-temp/blob/main/logos.png "Logos")
+
+
+
 
 
 - ⚡ Fun facts:
