@@ -1,4 +1,4 @@
-## Hi everyone 👋:blush:
+## Hi there 👋:blush:
 
 My name is Tamar and I’m a junior full-stack developer.
 In the past I’ve held several managerial positions in the education field, but I went on a career shift after teaching myself how to code. 
