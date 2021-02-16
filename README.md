@@ -4,7 +4,7 @@ My name is Tamar and I’m a junior full-stack developer.
 In the past I’ve held several managerial positions in the education field, but I went on a career shift after teaching myself how to code. 
 I'm a fast learner:runner: and an autodidact, and I’ve already worked on real, customer-facing projects.
 
-###Right now looking for a junior job in the relvant topics or new topics:star:
+### Right now looking for a junior job in the relvant topics or new topics:star:
 
 
 - ⚡ Fun facts:
