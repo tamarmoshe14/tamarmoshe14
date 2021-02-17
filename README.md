@@ -9,16 +9,16 @@ I'm a fast learner:runner: and an autodidact, and I’ve already worked on real,
 
 # My websites:
 :cloud::cloud::cloud:  [My Weather App](https://tamar-weather-app.herokuapp.com/)
- - A Node.js app that helps you get the live weather according to a location input.
+  A Node.js app that helps you get the live weather according to a location input.
 
 :moneybag::moneybag::moneybag:  [My expenses accounting](https://tamar-expensify.herokuapp.com/)
-- A React App for those of us who like to keep track of our expenses.
+ A React App for those of us who like to keep track of our expenses.
 
 :speaking_head::speaking_head::speaking_head:  [My Chat App](https://tamars-chat-app.herokuapp.com/)
-- A neat Node.js chat app, in which you can chat with different people in different rooms. 
+ A neat Node.js chat app, in which you can chat with different people in different rooms. 
 
 :smirk::smirk::smirk:  [My WHAT-TO-DO indecision App](https://tamar-what-to-do.herokuapp.com/)
-- A small React app that helps you make decisions.
+ A small React app that helps you make decisions.
 
 # Programming Languages and Tools:
 
