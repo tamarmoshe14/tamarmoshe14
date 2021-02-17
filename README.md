@@ -24,7 +24,7 @@ I'm a fast learner:runner: and an autodidact, and I’ve already worked on real,
 
 
 
-- ⚡ Fun facts:
+⚡ Fun facts:
 1. If you asked me 5 years ago I'd probably tell you that a google search and a Powerpoint presentation is the strongest connection I had to coding.
 2. I love:heartpulse: snowboarding and cooking (not at the same time)
 3. My name is from the bible.
